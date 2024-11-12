@@ -1,19 +1,18 @@
 <?php
-  // Jordi Casas - June'23
+
   // Get an image from S3 bucket
   // To customize:
   // * Value of s3 bucket for an image
   // * Amazon RDS instance parameters
 ?>
 <html>
-  <img src = "https://jcb-web.s3.amazonaws.com/itblogo.jpg">
 </html>
 
 
 <?php
   // PHP code to retrieve environment variables, connect to a DB and show the result.
 
-  print("<br><br>Hola, benvingut/da a l'aplicacio de prova ITB 2023!<br>");
+  print("<br><br>Hola, benvingut/da a l'aplicacio de prova SAPA 2024!<br>");
   print("<br><br>Aquesta és la versió 1 de l'aplicació<br>");
   // Definir els paràmetres que connecten amb la BD  
   print("<br>Variables d'entorn:<br>");
